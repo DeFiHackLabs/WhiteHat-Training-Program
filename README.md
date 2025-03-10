@@ -15,7 +15,7 @@ Expected Deliverables (e.g., DeFiHackLabs POC Development):
 
 # Batch 1 
 ## On-Chain Crypto Flow Analysis
- - Lead: SunSec
+ - Lead: [SunSec](https://x.com/1nf0s3cpt)
  - Trainees: G2Jason, Clark, Sponge, Jenwi, Moonlight, Shane_hsu, Jeff, Art阿曾, Terry0201, LikKee.eth, Garden, RayM.
  - Date: 2/3 ~ 3/10
 - White Hats Who Successfully Completed the Program
@@ -23,7 +23,7 @@ Expected Deliverables (e.g., DeFiHackLabs POC Development):
    ![Screenshot 2025-03-10 at 12 48 48 PM](https://github.com/user-attachments/assets/abb59506-cd1e-4d4d-b2bf-c578359ec730)
   
  ## Smart Contract Auditing
- - Lead: Louis
+ - Lead: [Louis](https://x.com/0xlouistsai)
  - Date:
  - Trainees:
    
