@@ -19,8 +19,9 @@ Expected Deliverables (e.g., DeFiHackLabs POC Development):
  - Trainees: G2Jason, Clark, Sponge, Jenwi, Moonlight, Shane_hsu, Jeff, Art阿曾, Terry0201, LikKee.eth, Garden, RayM.
  - Date: 2/3 ~ 3/10
 - White Hats Who Successfully Completed the Program
-  
-   ![Screenshot 2025-03-10 at 12 48 48 PM](https://github.com/user-attachments/assets/abb59506-cd1e-4d4d-b2bf-c578359ec730)
+
+![Screenshot 2025-03-10 at 5 31 08 PM](https://github.com/user-attachments/assets/1d021368-0b96-4508-b43d-1bd44e3aae3b)
+
   
  ## Smart Contract Auditing
  - Lead: [Louis](https://x.com/0xlouistsai)
