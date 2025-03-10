@@ -7,6 +7,7 @@ Mission of the White Hat Lead:
  - Guide participants in learning and challenge-solving.
  - Host at least 2 sharing session per month.
  - Organize at least 1 sharing session for group members.
+ - Assign at least 1 task and homework every week.
 
 Expected Deliverables (e.g., DeFiHackLabs POC Development):
  - Each participant must produce at least 1 attack reproduction POC per month.
