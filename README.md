@@ -25,11 +25,33 @@ Expected Deliverables (e.g., DeFiHackLabs POC Development):
   
  ## Smart Contract Auditing
  - Lead: [Louis](https://x.com/0xlouistsai)
- - Date:
- - Trainees:
-   
+- White Hats Who Successfully Completed the Program
+![GndJtFKaQAAb6w0](https://github.com/user-attachments/assets/a7764b9d-e7e9-4e03-a677-0c1e0063cbdc)
+
+
 ## Attack Reproduction POC Development
  - Lead: Seal
- - Date:
- - Trainees:
-   
+- White Hats Who Successfully Completed the Program
+![image](https://github.com/user-attachments/assets/5e3dd400-48e9-4800-9bab-45d397a129a7)
+
+---
+
+# Batch 2
+
+ ## Smart Contract Auditing
+ - Lead: [Wiasliaw](https://x.com/wiasliaw)
+- White Hats Who Successfully Completed the Program
+![GsxMV0taoAAmOsV](https://github.com/user-attachments/assets/e87820bb-3e21-422c-b9a0-4db617f8b4b2)
+
+ ## CTF Intensive Training
+ - Lead: [Bill](http://x.com/hibillh)
+- White Hats Who Successfully Completed the Program
+![GtnRyAga0AM3yK3](https://github.com/user-attachments/assets/2737ba53-5897-4555-8715-40c54d170de4)
+
+
+ ## AI Auditing Detection Development
+ - Lead: [Alice](https://x.com/AliceHsu_kou)
+- White Hats Who Successfully Completed the Program
+![GsxNJWjaQAEZ17u](https://github.com/user-attachments/assets/1dd32a94-eb21-4dd3-ad2b-45043fe85281)
+
+
